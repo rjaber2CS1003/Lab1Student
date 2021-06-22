@@ -1,5 +1,5 @@
 # Lab 1
-**Released on** Tuesday, September 14
+**Released on** Tuesday, September 14   
 **Due on** Wednesday, September 15 (24 hours after release)
 
 **Modules Covered:** 1
