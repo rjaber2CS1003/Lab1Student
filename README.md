@@ -5,7 +5,8 @@
 **Modules Covered:** 1
 
 ## Preparation Steps:
-- Have Python 3 + Text Editor downloaded on Computer  
+- Make an account to GitHub (Follow steps given in syllabus and in lecture video)
+- Make an account to Repl.it using your GitHub Account
 - Have GitHub Desktop set up and submitted your email 
 - Watch all modules  
 - Get in touch with pair programming partner  
