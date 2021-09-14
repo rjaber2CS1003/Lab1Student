@@ -1,5 +1,11 @@
-# Your Student Name, Your Student Number
-# Your Partner's Name, Your Partner's Number
-# Your Other Partner's Name, Your Other Partner's Number (delete if no other partner)
+# Rabeh Jaber, 3710539
+# Chelsea Pitchford, 37104773
+# Write your code for Question 1.0 below
 
-# Write your code for Question 1 below
+print("******  ******")
+print("*       *    *")
+print("*       *    *")
+print("*       ***** ")
+print("*       *  *  ")
+print("*       *   * ")
+print("******  *    *")
